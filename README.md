@@ -1,7 +1,8 @@
 # imps
 
-> IMPS a system which combinat Vue.js (front-end) , Java (back-end) and Android (mobile)
-> In this Vue project, I used BootstrapVue for UI designing (This app would be launched on mobile device, so I didn't designed with RWD), VeeValidate for validation and specific libraries to decreased development time.
+> IMPS a system which combinat Vue.js (front-end) , Java (back-end) and Android (mobile).
+
+In this Vue project, I used BootstrapVue for UI designing (This app would be launched on mobile device, so I didn't designed with RWD), VeeValidate for validation and specific libraries to decreased development time.
 
 
 
