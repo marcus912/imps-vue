@@ -1,6 +1,9 @@
 # imps
 
-> IMPS vue.js
+> IMPS a system which combinat Vue.js (front-end) , Java (back-end) and Android (mobile)
+> In this Vue project, I used BootstrapVue for UI designing (This app would be launched on mobile device, so I didn't designed with RWD), VeeValidate for validation and specific libraries to decreased development time.
+
+
 
 ## Build Setup
 
@@ -23,5 +26,3 @@ npm run unit
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
